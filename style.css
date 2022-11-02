@@ -80,8 +80,8 @@ button {
 }
 
 .new-task__label,
-.todo-title,
-.done-title {
+.todo__title,
+.done__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -161,7 +161,7 @@ button {
 }
 
 /* Completed */
-.done .list__label {
+.list_done .list__label {
   text-decoration: line-through;
   color: #888;
 }
