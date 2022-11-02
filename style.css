@@ -1,15 +1,15 @@
 /* Reset Style */
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button {
-  outline:none;
+  outline: none;
 }
 
 .body {
@@ -33,7 +33,7 @@ input,button {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .top {
     text-align: center;
@@ -144,7 +144,7 @@ input,button {
 
 .list__input {
   width: 226px;
-  display:none;
+  display: none;
 }
 
 .list__icon {
@@ -165,10 +165,10 @@ input,button {
 
 /* Edit Task */
 .edit-mode .list__input {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .edit-mode .list__label {
-  display:none;
+  display: none;
 }
