@@ -62,8 +62,8 @@ button {
 }
 
 .new-task__btn,
-.list__editBtn,
-.list__delBtn {
+.list__edit-btn,
+.list__del-btn {
   background: none;
   border: 0px;
   color: #888;
@@ -74,8 +74,8 @@ button {
 }
 
 .new-task__btn:hover,
-.list__editBtn:hover,
-.list__delBtn:hover {
+.list__edit-btn:hover,
+.list__del-btn:hover {
   color: #3a3a3a;
 }
 
